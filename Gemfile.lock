@@ -1,0 +1,18 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    benchmark-ips (2.13.0)
+    rake (13.1.0)
+    rake-compiler (1.2.5)
+      rake
+
+PLATFORMS
+  x86_64-darwin-19
+
+DEPENDENCIES
+  benchmark-ips
+  rake
+  rake-compiler
+
+BUNDLED WITH
+   2.4.6
